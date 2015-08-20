@@ -1,0 +1,8 @@
+E:\DEV\C#\WindowsInfos\WindowsInfos\bin\Debug\WindowsInfos.exe.config
+E:\DEV\C#\WindowsInfos\WindowsInfos\bin\Debug\WindowsInfos.exe
+E:\DEV\C#\WindowsInfos\WindowsInfos\bin\Debug\WindowsInfos.pdb
+E:\DEV\C#\WindowsInfos\WindowsInfos\obj\Debug\WindowsInfos.Form1.resources
+E:\DEV\C#\WindowsInfos\WindowsInfos\obj\Debug\WindowsInfos.Properties.Resources.resources
+E:\DEV\C#\WindowsInfos\WindowsInfos\obj\Debug\WindowsInfos.csproj.GenerateResource.Cache
+E:\DEV\C#\WindowsInfos\WindowsInfos\obj\Debug\WindowsInfos.exe
+E:\DEV\C#\WindowsInfos\WindowsInfos\obj\Debug\WindowsInfos.pdb
