@@ -1,0 +1,5 @@
+E:\DEV\C#\ConsoleSorter\ConsoleSorter\bin\Debug\ConsoleSorter.exe.config
+E:\DEV\C#\ConsoleSorter\ConsoleSorter\bin\Debug\ConsoleSorter.exe
+E:\DEV\C#\ConsoleSorter\ConsoleSorter\bin\Debug\ConsoleSorter.pdb
+E:\DEV\C#\ConsoleSorter\ConsoleSorter\obj\Debug\ConsoleSorter.exe
+E:\DEV\C#\ConsoleSorter\ConsoleSorter\obj\Debug\ConsoleSorter.pdb
