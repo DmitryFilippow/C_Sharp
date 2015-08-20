@@ -1,0 +1,9 @@
+E:\DEV\C#\MP3Player\MP3Player\bin\Debug\MP3Player.exe.config
+E:\DEV\C#\MP3Player\MP3Player\bin\Debug\MP3Player.exe
+E:\DEV\C#\MP3Player\MP3Player\bin\Debug\MP3Player.pdb
+E:\DEV\C#\MP3Player\MP3Player\obj\Debug\MP3Player.csprojResolveAssemblyReference.cache
+E:\DEV\C#\MP3Player\MP3Player\obj\Debug\MP3Player.Form1.resources
+E:\DEV\C#\MP3Player\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+E:\DEV\C#\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.Cache
+E:\DEV\C#\MP3Player\MP3Player\obj\Debug\MP3Player.exe
+E:\DEV\C#\MP3Player\MP3Player\obj\Debug\MP3Player.pdb
