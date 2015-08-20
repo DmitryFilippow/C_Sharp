@@ -1,0 +1,9 @@
+E:\DEV\C#\Sniffer\Sniffer\bin\Debug\Sniffer.exe.config
+E:\DEV\C#\Sniffer\Sniffer\obj\Debug\Sniffer.csprojResolveAssemblyReference.cache
+E:\DEV\C#\Sniffer\Sniffer\obj\Debug\Sniffer.Form1.resources
+E:\DEV\C#\Sniffer\Sniffer\obj\Debug\Sniffer.Properties.Resources.resources
+E:\DEV\C#\Sniffer\Sniffer\obj\Debug\Sniffer.csproj.GenerateResource.Cache
+E:\DEV\C#\Sniffer\Sniffer\bin\Debug\Sniffer.exe
+E:\DEV\C#\Sniffer\Sniffer\bin\Debug\Sniffer.pdb
+E:\DEV\C#\Sniffer\Sniffer\obj\Debug\Sniffer.exe
+E:\DEV\C#\Sniffer\Sniffer\obj\Debug\Sniffer.pdb
