@@ -1,5 +1,5 @@
 # VS2012(C#)
-C# projects
+
 ConsoleSorter - Консольный сортировщик. запускается с параметрами - с:\consolesorter.exe c:\files\ c:\sort\ или /help .
 
 MP3Player - простой поигрыватель mp3 файлов.
