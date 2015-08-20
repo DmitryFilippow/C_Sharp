@@ -1,0 +1,9 @@
+E:\DEV\C#\VideoPlayer\VideoPlayer\bin\Release\VideoPlayer.exe.config
+E:\DEV\C#\VideoPlayer\VideoPlayer\bin\Release\VideoPlayer.exe
+E:\DEV\C#\VideoPlayer\VideoPlayer\bin\Release\VideoPlayer.pdb
+E:\DEV\C#\VideoPlayer\VideoPlayer\obj\Release\VideoPlayer.Form1.resources
+E:\DEV\C#\VideoPlayer\VideoPlayer\obj\Release\VideoPlayer.Properties.Resources.resources
+E:\DEV\C#\VideoPlayer\VideoPlayer\obj\Release\VideoPlayer.csproj.GenerateResource.Cache
+E:\DEV\C#\VideoPlayer\VideoPlayer\obj\Release\VideoPlayer.exe
+E:\DEV\C#\VideoPlayer\VideoPlayer\obj\Release\VideoPlayer.pdb
+E:\DEV\C#\VideoPlayer\VideoPlayer\obj\Release\VideoPlayer.csprojResolveAssemblyReference.cache
