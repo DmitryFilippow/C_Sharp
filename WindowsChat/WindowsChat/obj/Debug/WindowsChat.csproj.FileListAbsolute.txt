@@ -1,0 +1,9 @@
+E:\DEV\C#\WindowsChat\WindowsChat\bin\Debug\WindowsChat.exe
+E:\DEV\C#\WindowsChat\WindowsChat\bin\Debug\WindowsChat.pdb
+E:\DEV\C#\WindowsChat\WindowsChat\obj\Debug\WindowsChat.Properties.Resources.resources
+E:\DEV\C#\WindowsChat\WindowsChat\obj\Debug\WindowsChat.csproj.GenerateResource.Cache
+E:\DEV\C#\WindowsChat\WindowsChat\obj\Debug\WindowsChat.exe
+E:\DEV\C#\WindowsChat\WindowsChat\obj\Debug\WindowsChat.pdb
+E:\DEV\C#\WindowsChat\WindowsChat\obj\Debug\WindowsChat.LocalChatForm.resources
+E:\DEV\C#\WindowsChat\WindowsChat\bin\Debug\WindowsChat.exe.config
+E:\DEV\C#\WindowsChat\WindowsChat\obj\Debug\WindowsChat.csprojResolveAssemblyReference.cache
