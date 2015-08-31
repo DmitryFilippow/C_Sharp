@@ -1,0 +1,52 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GameCheatsDBSQL
+{
+    public class CConfig2
+    {
+        private CConfig2()
+        {
+        }
+        
+        public static void LD()
+        {
+            AA = "Aa";
+        }
+
+        //private static object _locker = new object();
+        private static volatile CConfig2 _instance = null;
+        public static string AA = "AA";
+        public string BB = "BB";
+
+        public static string _ch = "GCDBCFG";
+
+        public static CConfig2 Instance
+        {
+            /*get
+            {
+                if (_instance == null)
+                {
+                    lock (_locker)
+                    {
+                        if (_instance==null) {_instance=new CConfig2();}
+                    }
+                }
+                return _instance;
+            }*/
+            get
+            {
+                if (_instance == null)
+                {
+                    _instance=new CConfig2();
+                }
+                return _instance;
+            }
+        }
+        public static void Init(){}
+
+    }
+}

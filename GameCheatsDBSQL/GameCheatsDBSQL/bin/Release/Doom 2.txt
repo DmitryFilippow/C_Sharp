@@ -1,0 +1,43 @@
+Dооm 2
+ 
+Читы работают с первой части.
+
+IDMUSxx         Уpoвeнь xx
+00      INTROA
+01      RUNNIN
+02      STALKS
+03      COUNTD
+04      BETWEE
+05      DOOM
+06      THE_DA
+07      SHAWN
+08      DDTBLU
+09      IN_CIT
+10      DEAD
+11      STLKS2
+12      THEDA2
+13      DOOM2
+14      DDTBL2
+15      RUNNI2
+16      DEAD2
+17      STLKS3
+18      ROMERO
+19      SHAWN2
+20      MESSAG
+21      COUNT2
+22      DDTBL3
+23      AMPIE
+24      TEHDA3
+25      ADRIAN
+26      MESSG2
+27      ROMER2
+28      TENSE
+29      SHAWN3
+30      OPENIN
+31      EVIL
+32      ULTIMA
+33      READ_M
+34      DM2TTL
+35      DM2INT
+
+

@@ -1,0 +1,14 @@
+E:\DEV\C#\GameCheatsDBSQL\GameCheatsDBSQL\bin\Release\GameCheatsDBSQL.exe.config
+E:\DEV\C#\GameCheatsDBSQL\GameCheatsDBSQL\bin\Release\GameCheatsDBSQL.exe
+E:\DEV\C#\GameCheatsDBSQL\GameCheatsDBSQL\bin\Release\GameCheatsDBSQL.pdb
+E:\DEV\C#\GameCheatsDBSQL\GameCheatsDBSQL\bin\Release\EntityFramework.dll
+E:\DEV\C#\GameCheatsDBSQL\GameCheatsDBSQL\bin\Release\EntityFramework.SqlServer.dll
+E:\DEV\C#\GameCheatsDBSQL\GameCheatsDBSQL\bin\Release\EntityFramework.xml
+E:\DEV\C#\GameCheatsDBSQL\GameCheatsDBSQL\bin\Release\EntityFramework.SqlServer.xml
+E:\DEV\C#\GameCheatsDBSQL\GameCheatsDBSQL\obj\Release\GameCheatsDBSQL.csprojResolveAssemblyReference.cache
+E:\DEV\C#\GameCheatsDBSQL\GameCheatsDBSQL\obj\Release\GameCheatsDBSQL.CheatsDBForm.resources
+E:\DEV\C#\GameCheatsDBSQL\GameCheatsDBSQL\obj\Release\GameCheatsDBSQL.Migrations.GameCheats.resources
+E:\DEV\C#\GameCheatsDBSQL\GameCheatsDBSQL\obj\Release\GameCheatsDBSQL.Properties.Resources.resources
+E:\DEV\C#\GameCheatsDBSQL\GameCheatsDBSQL\obj\Release\GameCheatsDBSQL.csproj.GenerateResource.Cache
+E:\DEV\C#\GameCheatsDBSQL\GameCheatsDBSQL\obj\Release\GameCheatsDBSQL.exe
+E:\DEV\C#\GameCheatsDBSQL\GameCheatsDBSQL\obj\Release\GameCheatsDBSQL.pdb
